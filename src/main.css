@@ -3,8 +3,26 @@ body {
 }
 h1{
   position: absolute;
-  left: 10%;
-  top: 5%;
+  left: 50%;
+  top: 30%;
+  font-family: 'Titillium Web', sans-serif;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+  color: #ffffff;
+}
+h3{
+  position: absolute;
+  left: 50%;
+  top: 35%;
+  font-family: 'Titillium Web', sans-serif;
+  transform: translateX(-50%) translateY(-50%);
+  text-align: center;
+  color: #ffffff;
+}
+h4{
+  position: absolute;
+  left: 50%;
+  top: 37%;
   font-family: 'Titillium Web', sans-serif;
   transform: translateX(-50%) translateY(-50%);
   text-align: center;
