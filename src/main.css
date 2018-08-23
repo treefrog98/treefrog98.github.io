@@ -1,10 +1,11 @@
 body {
-  background-color: #000000;
+  background-color: #fccf1c;
 }
 h1{
   position: absolute;
-  left: 50%;
-  top: 50%;
+  left: 10%;
+  top: 5%;
+  font-family: 'Titillium Web', sans-serif;
   transform: translateX(-50%) translateY(-50%);
   text-align: center;
   color: #ffffff;
